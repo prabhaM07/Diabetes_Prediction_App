@@ -1,7 +1,5 @@
 # Diabetes Prediction App
 
-This is a Streamlit-based web application that predicts the likelihood of diabetes based on user-provided medical and lifestyle data using an AdaBoost classifier.
-
 ## Features
 - User-friendly interface for inputting patient details.
 - Predicts diabetes likelihood using a trained AdaBoost model.
@@ -78,6 +76,4 @@ Feel free to fork this repository and submit pull requests for improvements.
 This project is licensed under the MIT License.
 
 ---
-
-For any issues, please create a GitHub issue or contact the repository owner.
 
